@@ -1,0 +1,16 @@
+{
+    "title": "Python: None",
+    "slug": "python-none",
+    "description": "Introduction to None in Python. Covers what None is, and how it represents the absence of value.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python"
+    ],
+    "duration": 2,
+    "prerequisites": [
+    ],
+    "related": [
+    ]
+}
