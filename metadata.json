@@ -10,6 +10,9 @@
     ],
     "duration": 2,
     "prerequisites": [
+        "python-print",
+        "python-type-function",
+        "python-variables"
     ],
     "related": [
     ]
